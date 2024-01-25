@@ -1,3 +1,43 @@
+🚀 Build a SaaS Application using Next.js 14, Stripe, Kinde, Prisma, Supabase, and Tailwind! Learn step-by-step and elevate your development skills. 
+
+- 🚀 Kinde Auth: https://dub.sh/xeU8r3v
+
+
+- 👨🏻‍💻 GitHub Repository: https://www.janmarshal.com/courses/build-a-next-js-14-blog-or-react-sanity-io-tailwind-css-shadcn-ui
+- 🌍 My Website: https://www.janmarshal.com
+- 📧 Business ONLY: jan@alenix.de 
+
+Resources used:
+- Next.js: https://nextjs.org
+- Kinde: https://dub.sh/xeU8r3v
+- Tailwind.css: https://tailwindcss.com
+- Shadcn/UI: https://ui.shadcn.com
+- Stripe: https://stripe.com
+- Prisma: https://prisma.io
+- Supabase: https://supabase.com
+
+Features: 
+
+- 🌐 nextjs App Router
+- 🔐 Kinde Authentication
+- 📧 Passwordless Auth
+- 🔑 OAuth (Google and GitHub)
+- 💿 supabase Database
+- 💨 prisma Orm
+- 🎨 Styling with tailwindcss and shadcn UI
+- ✅ Change the color scheme to your liking
+- 💵 stripe for subscription handling
+- 🪝 Implementation of Stripe Webhooks
+- 😶‍🌫️ Deployment to vercel
+
+- Pending States
+- Cache Revalidation
+- Stripe Customer Portal
+- Stripe Checkout page
+- Server side implementation 
+- Add Notes, View Notes,  Edit Notes, Delete Nodes
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
